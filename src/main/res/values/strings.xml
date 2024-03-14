@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="form_nombre">Nombre</string>
+    <string name="form_apellido">Apellido</string>
+    <string name="form_correo">Correo</string>
+    <string name="form_telefono">Teléfono</string>
+    <string name="form_direccion">Dirección</string>
+    <string name="form_capturar">Capturar Datos</string>
+    <string name="bot_seg_act">Segundo Activity</string>
+    <string name="bot_regre">Regresar</string>
+</resources>
